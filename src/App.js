@@ -1,9 +1,10 @@
 import './App.css';
+import Featured from './components/Featured';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Featured />
     </div>
   );
 }
