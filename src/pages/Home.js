@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar";
 const Home = () =>{
     return (
         <div>
-            {/* <Navbar /> */}
+            <Navbar />
             {/* <Header/> */}
         <div className="homeContainer">
             <Featured/>
