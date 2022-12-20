@@ -114,3 +114,41 @@
 .fpRating>span{
     font-size: 14px;
 }
+
+/* Navbar */
+
+.navbar{
+    height: 50px;
+    background-color: #0349ab;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.navContainer{
+    width: 100%;
+    max-width: 1024px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.pic-logo {
+    height: 35px;
+    padding-right: 5px;
+}
+
+.navButton{
+    margin-left: 20px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #003580;
+}
