@@ -44,7 +44,10 @@ const Footer = () => {
             <li className="fListItem">Terms & conditions</li>
         </ul>
         </div>
-        <div className="fText">Copyright © 2022 Lamabooking.</div>
+        <a href="https://www.linkedin.com/in/james--fleming/">LinkedIn</a>
+        <a href="https://github.com/James-fleming394">GitHub</a>
+        <div className="fText">James.Fleming@gmail.com</div>
+        <div className="fText">Copyright © 2022 James Fleming.</div>
     </div>
     );
 };

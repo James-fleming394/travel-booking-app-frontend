@@ -152,3 +152,33 @@
     cursor: pointer;
     color: #003580;
 }
+
+/* Footer */
+
+.footer{
+    width: 100%;
+    width: 1024px;
+    font-size: 12px;
+    background-color: whitesmoke;
+    display: grid;
+    width: 100%;
+    margin-top: 15px;
+    position: relative;
+}
+
+.fLists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fList{
+    list-style: none;
+    padding: 0;
+}
+
+.fListItem{
+    margin-bottom: 10px;
+    color: #003580;
+    cursor: pointer;
+}

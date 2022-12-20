@@ -2,6 +2,7 @@ import Featured from "../components/Featured";
 import PropertyList from "../components/PropertyList";
 import FeaturedProperties from "../components/FeaturedProperty";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 const Home = () =>{
     return (
@@ -14,8 +15,8 @@ const Home = () =>{
             <PropertyList/>
             <h1 className="homeTitle">Featured Stays</h1>
             <FeaturedProperties/>
-            {/* <MailList/>
-            <Footer/>  */}
+            {/* <MailList/> */}
+            <Footer/> 
         </div>
         </div>
     );
