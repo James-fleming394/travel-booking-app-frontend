@@ -3,6 +3,7 @@ import PropertyList from "../components/PropertyList";
 import FeaturedProperties from "../components/FeaturedProperty";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import MailList from "../components/MailList";
 
 const Home = () =>{
     return (
@@ -15,7 +16,7 @@ const Home = () =>{
             <PropertyList/>
             <h1 className="homeTitle">Featured Stays</h1>
             <FeaturedProperties/>
-            {/* <MailList/> */}
+            <MailList/>
             <Footer/> 
         </div>
         </div>
