@@ -4,6 +4,10 @@
     padding: 5px 5px 0 5px;
 }
 
+.homeTitle {
+    text-align: center;
+}
+
 .header {
     background-color: #003580;
     color: white;
@@ -150,6 +154,7 @@
     max-width: 1024px;
     display: flex;
     justify-content: space-between;
+    padding-left: 20.5%;
     gap: 20px;
     z-index: 1;
 }
@@ -184,6 +189,7 @@
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    padding-left: 20.5%;
 }
 
 .pListItem{
@@ -218,6 +224,7 @@
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    padding-left: 20.5%;
 }
 
 .fpItem{
