@@ -16,7 +16,7 @@ const Featured = () => {
 
                         <div className="featuredItem">
                             <img
-                                src="https://a.cdn-hotels.com/gdcs/production48/d1488/5d46fe1d-5102-4ef3-8226-c8d864e05060.jpg"
+                                src="https://www.miamiluxuryhomes.com/wp-content/uploads/2018/03/allison-island.jpg"
                                 alt=""
                                 className="featuredImg" />
                             <div className="featuredTitles">
@@ -26,7 +26,7 @@ const Featured = () => {
                         </div>
                         <div className="featuredItem">
                             <img
-                                src="https://www.kaplaninternational.com/files/styles/hero_banner_md/public/school/gallery/kaplan-english-school-in-London-4.jpg?itok=RhkxxF50"
+                                src="http://london.com/wp-content/uploads/2019/03/london_001.jpg"
                                 alt=""
                                 className="featuredImg" />
                             <div className="featuredTitles">

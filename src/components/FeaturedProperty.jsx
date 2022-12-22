@@ -22,7 +22,9 @@ return (
             {item.rating && <div className="fpRating">
                 <button>{item.rating}</button>
                 <span>Excellent</span>
+                
             </div>}
+            <button>See More</button>
             </div>
         ))}
         </>

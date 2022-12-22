@@ -50,7 +50,7 @@ const Header = ({ type }) => {
 
     const handleSearch = () => {
         dispatch({ type: "NEW_SEARCH", payload: { destination, dates, options } });
-        navigate("/hotels", { state: { destination, dates, options } });
+        navigate('http://localhost:6001/api/hotels', { state: { destination, dates, options } });
     };
 
     return (
